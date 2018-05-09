@@ -1,0 +1,13 @@
+{
+  "name": "fins_and_things",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/\">MapTiler</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "12",
+  "maxzoom": "15",
+  "scale": "1.000000",
+  "bounds": [-109.52236832, 38.55697709, -109.47278501, 38.58504988],
+  "profile": "mercator"
+}
