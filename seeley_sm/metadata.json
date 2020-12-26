@@ -1,0 +1,13 @@
+{
+  "name": "seeley_sm",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/\">MapTiler</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "8",
+  "maxzoom": "13",
+  "scale": "1.000000",
+  "bounds": [-113.78590124, 46.94407023, -113.10634822, 47.45906166],
+  "profile": "mercator"
+}
