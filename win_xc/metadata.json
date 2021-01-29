@@ -1,0 +1,13 @@
+{
+  "name": "win_xc",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "Rendered with <a href=\"https://www.maptiler.com/\">MapTiler</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "9",
+  "maxzoom": "14",
+  "scale": "1.000000",
+  "bounds": [-120.51884967, 48.35669039, -120.12487060, 48.68544049],
+  "profile": "mercator"
+}
